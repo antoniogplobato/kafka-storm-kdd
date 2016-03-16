@@ -1,0 +1,78 @@
+
+Processadas 535043 em 60000 ms
+Processadas 627131 em 120000 ms
+Processadas 446346 em 60000 ms
+Processadas 445711 em 60000 ms
+
+Processadas 282993 em 60000 ms
+Processadas 558892 em 60000 ms
+
+Processadas 602601 em 60000 ms
+Processadas 297835 em 60000 ms
+
+Processadas 401334 em 60000 ms
+Processadas 401468 em 60000 ms
+
+Processadas 233514 em 60000 ms
+Processadas 117956 em 60000 ms
+Processadas 113547 em 60000 ms
+
+Processadas 392019 em 60000 ms
+
+Processadas 432025 em 60000 ms
+Processadas 429135 em 60000 ms
+
+Processadas 603333 em 60000 ms
+
+Processadas 687830 em 60000 ms
+Processadas 1602371 em 120000 ms
+Processadas 2450168 em 180000 ms
+Processadas 2556028 em 240000 ms
+Processadas 2614961 em 300000 ms
+Processadas 2672123 em 360000 ms
+
+Processadas 663823 em 60000 ms
+Processadas 1734630 em 120000 ms
+
+Processadas 206791 em 60000 ms
+Processadas 1208064 em 120000 ms
+Processadas 2279715 em 180000 ms
+Processadas 2954886 em 240000 ms
+
+Processadas 611877 em 60000 ms
+Processadas 312300 em 60000 ms
+Processadas 1756160 em 120000 ms
+Processadas 885029 em 120000 ms
+
+Processadas 221264 em 60000 ms
+Processadas 267078 em 60000 ms
+Processadas 249532 em 60000 ms
+Processadas 567566 em 120000 ms
+Processadas 613197 em 120000 ms
+Processadas 613670 em 120000 ms
+
+Processadas 930121 em 180000 ms
+Processadas 956213 em 180000 ms
+Processadas 958178 em 180000 ms
+
+Processadas 320884 em 60000 ms
+Processadas 160485 em 60000 ms
+Processadas 157435 em 60000 ms
+Processadas 956592 em 120000 ms
+Processadas 475011 em 120000 ms
+Processadas 482749 em 120000 ms
+
+Processadas 40888 em 60000 ms
+Processadas 35180 em 60000 ms
+Processadas 106285 em 60000 ms
+Processadas 122563 em 60000 ms
+Processadas 166523 em 120000 ms
+Processadas 301421 em 120000 ms
+Processadas 125716 em 120000 ms
+Processadas 311835 em 120000 ms
+
+Processadas 479951 em 60000 ms
+Processadas 470764 em 60000 ms
+Processadas 1278723 em 120000 ms
+Processadas 1270651 em 120000 ms
+

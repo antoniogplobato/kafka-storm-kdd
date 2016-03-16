@@ -1,0 +1,1 @@
+{"dstIP": "10.0.0.104", "srcMAC": "08:00:27:fb:5c:c9","dstMAC": "08:00:27:fb:5c:c9", "timestamp": "2015-09-14 21:28:58.2679", "srcPort": "34665", "L7protocol": "TCP", "ttl": "64", "srcIP": "10.0.0.101", "dstPort": "9092", "payload": "lala"}
